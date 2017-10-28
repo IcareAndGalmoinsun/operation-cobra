@@ -1,1 +1,3 @@
-print "Vous n'avez pas les notes que vous meritez"
+public static void main(String[] args){
+  System.out.print("Hello World !");
+}
